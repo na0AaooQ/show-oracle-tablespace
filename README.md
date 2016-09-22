@@ -4,5 +4,5 @@ Oracle 11g 各表領域(テーブルスペース)の使用サイズと空き容�
 http://qiita.com/na0AaooQ/items/5ab2b826254631cab708
 
 ```
-https://github.com/na0AaooQ/show-oracle-tablespace.git
+git clone https://github.com/na0AaooQ/show-oracle-tablespace.git
 ```
